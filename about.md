@@ -8,9 +8,19 @@ permalink: /about/
 
 All the things you want to know about me. Allow me to ask and answer the questions!
 
+#### Who are you?
+
+Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I know enough about security and architecture to ask the hard questions. I'm a consumer of the internet and cautiously exploring the internet of things.
+
+Oh and I'm a millennial. 
+
 #### Current employer?
 
 Intel
+
+#### Alma Mater?
+
+Trinity University in San Antonio, TX
 
 #### Favorite programming language?
 
@@ -22,7 +32,7 @@ Yes! I run the blog [kitchenDebug](kitchendebug.com) and a corresponding YT [cha
 
 #### Resume?
 
-Ask me via Twitter or Email. I'll eventually get some sort of narrative version up and running for your viewing pleasure as well.
+Ask me. I'll eventually get some sort of narrative version up and running for your viewing pleasure as well.
 
 ## Contact me
 
