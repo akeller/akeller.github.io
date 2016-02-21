@@ -26,6 +26,4 @@ Ask me via Twitter or Email. I'll eventually get some sort of narrative version 
 
 ## Contact me
 
-[amara.kay.keller@gmail.com](mailto:amara.kay.keller@gmail.com)
-
-[@MissAmaraKay](https://twitter.com/MissAmaraKay)
+Use the buttons below for email and Twitter.
