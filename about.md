@@ -28,7 +28,7 @@ Currently JavaScript. Favorite library? AngularJS with Bootstrap. I like big JS 
 
 #### Any side projects? Non-coding hobbies?
 
-Yes! I run the blog [kitchenDebug](www.kitchendebug.com) and a corresponding YT [channel](http://www.youtube.com/c/Kitchendebug ). If you are looking to get into the kitchen (or back into the kitchen) I hope I can give you the inspirational bump you need! I'm dabbling in homebrewing as well.
+Yes! I run the blog kitchendebug.com and a corresponding YT [channel](http://www.youtube.com/c/Kitchendebug ). If you are looking to get into the kitchen (or back into the kitchen) I hope I can give you the inspirational bump you need! I'm dabbling in homebrewing as well.
 
 #### Resume?
 
