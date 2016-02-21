@@ -11,3 +11,4 @@ Stuff for later writings
 * Swift
 * Recruiting & Diversity
 * Conference booths
+* IOT
