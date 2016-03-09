@@ -24,4 +24,5 @@ So maybe instead of making pink and purple razors, toothbrushes, and office supp
 Do I wrap this up by mentioning I don't think the little dent in my hair after all day headphone use is cute? Not to mention it screams how anti social I was today.
 
 01111000 01101111 01111000 01101111,
+
 Amara
