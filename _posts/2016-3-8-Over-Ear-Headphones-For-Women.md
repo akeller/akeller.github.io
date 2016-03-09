@@ -3,13 +3,13 @@ layout: post
 title: Over Ear Headphones For Women
 ---
 
-I stabbed myself in the head today. Twice actually. Almost at the same time too. I can hear you saying "wow this blog is off to a really morbid thought", but stick with me there. 
+I stabbed myself in the head today. Twice actually. Almost at the same time too. I can hear you saying "wow this blog is off to a really morbid thought", but stick with me here. 
 
 I positioned my fantastic Audio-Technica ATH-M50 Professional Studio Monitor Headphones (a gift from my audio tech savve boyfriend, who is really the best) over my ears and smashed two Kendra Scott White Pearl studs into the sides of my head with a pierce that made me think "OH GOD IM BLEEDING". 
 
 So I check with a careful simultaneous swipe of my index fingers, because this in fact isn't my first rodeo as I've worn these headphones on and off daily for just over a year now. 
 
-Almost every day for a year I've put my headphones on, jammed my earrings into my head, adjusted (slightly) and continued working with music or a podcast for my ears. 
+**Almost every day for a year** I've put my headphones on, jammed my earrings into my head, adjusted (slightly) and continued working with music or a podcast for my ears. 
 
 I ask this on International Women's Day 2016, did Audio-Technica never do user acceptance testing or focus groups with anyone (man or woman) wearing earring(s)? Or is there some implicit understanding that *thou shall not wear earrings and over the ear headphones*? 
 
