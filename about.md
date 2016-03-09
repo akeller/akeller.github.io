@@ -10,7 +10,7 @@ All the things you want to know about me. Allow me to ask and answer the questio
 
 #### Who are you?
 
-Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I know enough about security and architecture to ask the hard questions. I'm a consumer of the internet and cautiously exploring the internet of things.
+Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I know enough about security and architecture to ask the hard questions. I'm a consumer of the internet and cautiously exploring the internet of things. I love open source.
 
 Oh and I'm a millennial. 
 
