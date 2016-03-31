@@ -3,9 +3,9 @@ layout: post
 title: I Love IDEs
 ---
 
-# What makes a good IDE?
-
 I love IDEs. Particularly small open source ones. I want them to be lightweight, fast, and just work. I am pretty sure I have downloaded and dabbled in all of them. Or what feels like all of them.
+
+# What makes a good IDE?
 
 I have struggled on and off with Eclipse mostly because I have been working on and off with Eclipse. I would say we have a love-hate relationship and I am sure Eclipse would agree. I have adjusted my heap size, closed any other application  I am running, and gone into each interaction with as much patience as I can muster be we've always had issues.
 
