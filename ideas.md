@@ -4,11 +4,15 @@ title: Ideas
 permalink: /ideas/
 ---
 
-Stuff for later writings
+#Stuff for later
 
 * ReactJS
 * IDEs
 * Swift
 * Recruiting & Diversity
-* Conference booths
+* Conference booths vs. technical contributors
 * IOT
+* Speaking Engagements
+* Conference Recaps
+* Forms
+* Accessibility
