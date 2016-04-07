@@ -4,7 +4,7 @@ title: Ideas
 permalink: /ideas/
 ---
 
-#Stuff for later
+# Stuff for later
 
 * ReactJS
 * IDEs
