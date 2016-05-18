@@ -16,3 +16,7 @@ permalink: /ideas/
 * Conference Recaps
 * Forms
 * Accessibility
+* Python
+* A case for longer bathroom lines at tech conferences
+* Growing a New Commnity
+* Culture Shock + Recruiting For Large Companies
