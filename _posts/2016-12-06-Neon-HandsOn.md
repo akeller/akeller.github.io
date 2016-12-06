@@ -13,7 +13,7 @@ Challenge accepted.
 
 It took me just under 24 hours to get neon up and running. No, I wasn't continuously working for 24 hours trying to get it installed, but I was working it on and off for a couple hours over the course of two afternoons. 
 
-![so close to getting neon working](/./images/Neon mnist_mlp.png)
+![so close to getting neon working](/./images/error-neon-mnist.PNG)
 
 Some "gotchas" I ran into:
 * works on CPU (yay!) but Windows isn't supported (boo!)
