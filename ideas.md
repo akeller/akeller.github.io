@@ -20,3 +20,6 @@ permalink: /ideas/
 * A case for longer bathroom lines at tech conferences
 * Growing a New Commnity
 * Culture Shock + Recruiting For Large Companies
+* Deep Learning for very very beginners
+* Neon examples
+* 2016 wrap up
