@@ -16,6 +16,7 @@ It took me just under 24 hours to get neon up and running. No, I wasn't continuo
 ![so close to getting neon working](/./images/error-neon-mnist.PNG)
 
 Some "gotchas" I ran into:
+
 * works on CPU (yay!) but Windows isn't supported (boo!)
 * more dependencies than I anticipated (which I'm curious about, is it because my machine wasn't already setup for ML/DL?)
 * installation instructions that left me wanting more
