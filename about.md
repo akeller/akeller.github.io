@@ -10,7 +10,7 @@ All the things you want to know about me. Allow me to ask and answer the questio
 
 #### Who are you?
 
-Currently I'm the Analytics Community Manager focused on TAP (Trusted Analytics Platform).
+Currently I'm the Analytics Platform Community Manager focused on TAP (Trusted Analytics Platform) and overall AI.
 
 Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I know enough about security and architecture to ask the hard questions. I'm a consumer of the internet and cautiously exploring the internet of things. I love open source.
 
