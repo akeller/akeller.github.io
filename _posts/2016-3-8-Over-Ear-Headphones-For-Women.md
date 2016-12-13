@@ -17,7 +17,7 @@ Sure, it's easy to blame Audio-Technica. But its anyone who makes over the ear h
 
 Oh?
 
-Did someone inform the corrective lense wearing community that their frame wearing user experience may be impacted by over the ear headphones? Or do I just wait for my bent frames to do the talking?
+Did someone inform the corrective lens wearing community that their frame wearing user experience may be impacted by over the ear headphones? Or do I just wait for my bent frames to do the talking?
 
 So maybe instead of making pink and purple razors, toothbrushes, and office supplies we should focus on the greater earring wearing community which I assume is comprised of a handful of women and a smattering of men and get a set of over the ear headphones that doesn't result in facial piercing (and not the kind mom or dad wouldn't be too keen on). 
 
