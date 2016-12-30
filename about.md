@@ -10,11 +10,15 @@ All the things you want to know about me. Allow me to ask and answer the questio
 
 #### Who are you?
 
-Currently I'm the Analytics Platform Community Manager focused on TAP (Trusted Analytics Platform) and overall AI.
+Currently I'm the Analytics & AI Community Manager. 
 
-Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I know enough about security and architecture to ask the hard questions. I'm a consumer of the internet and cautiously exploring the internet of things. I love open source.
+Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I love helping other developers develop their skills and I want everyone's lives to be more efficient through the help of technology. I know enough about security and architecture to ask the hard questions. I'm currently dabbling in AI (Machine Learning, Deep Learning) because it reminds me of my undergraduate research in distributed multi agent systems. Oh and because its awesome.
 
-Oh and I'm a millennial. 
+I'm a consumer of the internet and cautiously exploring the internet of things. I love open source.
+
+Oh and I'm a millennial.
+
+Which is why "Millennial Tech Female" came to be. Basically I stuck a bunch of descriptive buzzwords together as a sarcastic jab at myself. While I think those words literally describe me, I don't think all the things written on the internet about "millennials" or "tech females" actually describe who I am. But I'll let you be the judge of that. 
 
 #### Current employer?
 
@@ -27,6 +31,10 @@ Trinity University in San Antonio, TX
 #### Favorite programming language?
 
 Currently JavaScript. Favorite library? AngularJS with Bootstrap. I like big JS libraries and I cannot lie.
+
+#### Language on deck to learn?
+
+Python. 
 
 #### Any side projects? Non-coding hobbies?
 
