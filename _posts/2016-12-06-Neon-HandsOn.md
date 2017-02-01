@@ -26,12 +26,12 @@ Of course my work computer is a Windows machine and I'm nowhere near lucky enoug
 I wouldn't call the installation process hard so much as it was "involved". 
 
 * Attempt 'quick install": https://github.com/NervanaSystems/neon#quick-install
-..* Fail - MBP's new to dev setup need to confirm Xcode agreements, etc. 
+  * Fail - MBP's new to dev setup need to confirm Xcode agreements, etc. 
 * Confirm Python (2.x), git, etc.
 * Follow these: http://neon.nervanasys.com/docs/latest/installation.html
-..* Install pip, virtualenv, h5py, pyaml, pkg-config (I had to flip back and forth between pip and easy_install)
-..* Install OpenCV
-..* OpenBLAS (CPU, suboptimal performance warning a total non-issue for me)
+  * Install pip, virtualenv, h5py, pyaml, pkg-config (I had to flip back and forth between pip and easy_install)
+  * Install OpenCV
+  * OpenBLAS (CPU, suboptimal performance warning a total non-issue for me)
 * Keep working the dependency installs until you get "make" to work, per quick install steps. You may have 2 virtual envs running and have cloned neon like 3 times but it will work.
 
 ![mnist working in my terminal](/./images/working mnist in neon.png)
