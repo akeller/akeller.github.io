@@ -38,7 +38,11 @@ Python.
 
 #### Volunteer anywhere?
 
-Girls on the Run | Girls on the Run PDX | Girls on the Run SV (Soon!)
+I'm a member of the Trinity University Computer Science Advisor Board. 
+
+* Girls on the Run
+* Girls on the Run PDX
+* Girls on the Run SV (Soon!)
 
 Previously - [Women Who Code Portland Community Lead](https://medium.com/@WWCodePortland/meet-the-team-amara-keller-community-lead-8f8dbf244051#.awn01uv6g)
 
