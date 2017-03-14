@@ -27,7 +27,7 @@ One game (or game type) I would absolutely avoid is the ISS Simulator. This game
 
 I had a great time playing VR and I'm definitely looking forward to playing again in the future. We are fortunate enough to already have two towers with beefy GPUs that can support VR. As much as I want to recommend it, I think the price point has to come down a bit to make it consumer friendly. Not only are the headset and touch controllers expensive, but your required system specs are going to cost you. So go make friends with someone who splurges on tech and offer to watch their pets/place when they go on vacation!
 
-##My Tips For The Best VR Experience
+## My Tips For The Best VR Experience
 
 * Don't play with a headache, it will probably just make it worse.
 * Setup in a large, almost empty room, or a decent sized room with space and textured floors. Our hardwood floor, plastic mat covered study is great because you can "feel" when you are in the middle of the room.
