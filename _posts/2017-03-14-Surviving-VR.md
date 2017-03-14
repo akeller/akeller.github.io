@@ -34,3 +34,8 @@ I had a great time playing VR and I'm definitely looking forward to playing agai
 * Take the time to fully adjust the headset. It can absolutely make or break the experience.
 * Play games with a "fixed" position. Job Simulator's UI keeps you behind a desk or counter so standing up in one spot feels natural. 
 * Plan on only playing for a small amount of time at first. 
+
+
+01111000 01101111 01111000 01101111,
+
+Amara
