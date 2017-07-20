@@ -10,7 +10,7 @@ All the things you want to know about me. Allow me to ask and answer the questio
 
 #### Who are you?
 
-Currently I'm the Analytics & AI Community Manager. 
+Currently I'm a developer advocate!  
 
 Some kind of enterprise-y web developer/designer/UXer fighting for the end users. I love helping other developers develop their skills and I want everyone's lives to be more efficient through the help of technology. I know enough about security and architecture to ask the hard questions. I'm currently dabbling in AI (Machine Learning, Deep Learning) because it reminds me of my undergraduate research in distributed multi agent systems. Oh and because its awesome.
 
@@ -22,7 +22,7 @@ Which is why "Millennial Tech Female" came to be. Basically I stuck a bunch of d
 
 #### Current employer?
 
-Intel
+IBM
 
 #### Alma Mater?
 
@@ -36,19 +36,19 @@ Currently JavaScript. Favorite library? AngularJS with Bootstrap. I like big JS 
 
 Python. 
 
+Does React count too?
+
 #### Volunteer anywhere?
 
 I'm a member of the Trinity University Computer Science Advisor Board. 
 
-* Girls on the Run
-* Girls on the Run PDX
-* Girls on the Run SV (Soon!)
+I've previously been a part of Girls on the Run PDX. 
 
 Previously - [Women Who Code Portland Community Lead](https://medium.com/@WWCodePortland/meet-the-team-amara-keller-community-lead-8f8dbf244051#.awn01uv6g)
 
 #### Any side projects? Non-coding hobbies?
 
-Yes! I run the blog [kitchenDebug](http://kitchenDebug.com) and a corresponding YT [channel](http://www.youtube.com/c/Kitchendebug ). If you are looking to get into the kitchen (or back into the kitchen) I hope I can give you the inspirational bump you need! I'm dabbling in homebrewing as well.
+I've neglected this, but it's still online ->>> Yes! I run the blog [kitchenDebug](http://kitchenDebug.com) and a corresponding YT [channel](http://www.youtube.com/c/Kitchendebug ). If you are looking to get into the kitchen (or back into the kitchen) I hope I can give you the inspirational bump you need! I'm dabbling in homebrewing as well.
 
 #### Resume?
 
